@@ -1,6 +1,6 @@
 ## Sejam bem-vindos ao meu perfil! 🩷
 
-💜 19 anos | São Paulo, Brasil
+💜 20 anos | São Paulo, Brasil
 
 🩵 Atualmente estudando Análise e Desenvolvimento de Sistemas na FATEC Ipiranga.
 
