@@ -4,8 +4,8 @@
 
 ## <img src="./images/smile.png" height="30" style="vertical-align: middle;"/> about me:
 <div>
-    &nbsp;i'm a systems analysis and development student passionate about technology and always looking to learn something new!<br>
-    &nbsp;currently, i'm improving my programming and software development skills through studies and personal projects.
+    i'm a systems analysis and development student passionate about technology and always looking to learn something new!<br>
+    currently, i'm improving my programming and software development skills through studies and personal projects.
     <br><br>
     <img src="./images/computer.png" height="20" style="vertical-align: middle;" /> &nbsp; interested in software development and backend technologies<br/>
     <img src="./images/server.png" height="20" style="vertical-align: middle;" /> &nbsp; exploring data, automation and artificial intelligence<br/>
