@@ -23,7 +23,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"/>
@@ -31,11 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-
-</td>
-
-<td align="center" valign="middle">
-
+<br><br>
 <img src="https://github-stats-extended.vercel.app/api?username=ticiaalm&rank_icon=github&custom_title=%E2%82%8A%CB%9A%E2%80%A7%20%DB%B6%E0%A7%8E%20%CB%9A.&show_icons=true&include_all_commits=true&theme=nord"/>
 
 </td>
