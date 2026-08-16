@@ -12,10 +12,7 @@
 ## <img src="./images/laptop.png" height="30" style="vertical-align: middle;"/> tecnologias que estou estudando:
 
 <div data-importer="techs" align="center">
-<table>
-<tr>
-<td align="center" valign="middle">
-
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"/>
@@ -23,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"/>
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"/>
@@ -33,9 +31,6 @@
 <br><br>
 <img src="https://github-stats-extended.vercel.app/api?username=ticiaalm&rank_icon=github&custom_title=%E2%82%8A%CB%9A%E2%80%A7%20%DB%B6%E0%A7%8E%20%CB%9A.&show_icons=true&include_all_commits=true&theme=nord"/>
 
-</td>
-</tr>
-</table>
 </div>
 
 ## <img src="./images/mail.png" height="30" style="vertical-align: middle;"/> minhas redes sociais:
