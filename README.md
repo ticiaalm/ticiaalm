@@ -2,14 +2,17 @@
     <img src="./images/readme_background.png" height="480" style="vertical-align: middle;"/>
 </div>
 
-## <img src="./images/smile.png" height="30" style="vertical-align: middle;"/> sobre mim:
+## <img src="./images/smile.png" height="30" style="vertical-align: middle;"/> about me:
 <div>
-    <img src="./images/location.png" height="20" style="vertical-align: middle;" /> &nbsp; 21 anos | são paulo, brasil<br/>
-    <img src="./images/server.png" height="20" style="vertical-align: middle;" /> &nbsp; análise e desenvolvimento de sistemas<br/>
-    <img src="./images/circuit-board.png" height="20" style="vertical-align: middle;" /> &nbsp; fatec ipiranga<br/>
+    &nbsp;i'm a systems analysis and development student passionate about technology and always looking to learn something new!<br>
+    &nbsp;currently, i'm improving my programming and software development skills through studies and personal projects.
+    <br><br>
+    <img src="./images/computer.png" height="20" style="vertical-align: middle;" /> &nbsp; interested in software development and backend technologies<br/>
+    <img src="./images/server.png" height="20" style="vertical-align: middle;" /> &nbsp; exploring data, automation and artificial intelligence<br/>
+    <img src="./images/circuit-board.png" height="20" style="vertical-align: middle;" /> &nbsp; learning by building and solving problems<br/>
 </div>
 
-## <img src="./images/laptop.png" height="30" style="vertical-align: middle;"/> tecnologias que estou estudando:
+## <img src="./images/laptop.png" height="30" style="vertical-align: middle;"/> technologies i'm studying:
 
 <div data-importer="techs" align="center">
 <br>
@@ -33,7 +36,10 @@
 
 </div>
 
-## <img src="./images/mail.png" height="30" style="vertical-align: middle;"/> minhas redes sociais:
+## <img src="./images/mail.png" height="30" style="vertical-align: middle;"/> social media:
 <img src="./images/instagram.png" height="20" style="vertical-align: middle;" /> &nbsp; [instagram](https://www.instagram.com/ticiaalm/)<br/>
 <img src="./images/e-mail.png" height="20" style="vertical-align: middle;" /> &nbsp; [e-mail](mailto:leticiaalmeidadev@gmail.com)<br/>
 <img src="./images/linkedin.png" height="20" style="vertical-align: middle;" /> &nbsp; [linkedin](https://www.linkedin.com/in/ticiaalm/)
+
+##
+#### thank you for visiting my profile! i'm always open to collaboration and new opportunities in the technology field. <img src="./images/love.png" height="18" style="vertical-align: middle;"/>
